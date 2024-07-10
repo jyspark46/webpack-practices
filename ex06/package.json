@@ -4,7 +4,7 @@
   "description": "ex06: Bundling IV: Image Module",
   "main": "index.js",
   "scripts": {
-    "start": "npx webpack serve  --progress",
+    "start": "npx webpack serve --progress",
     "build": "npx webpack"
   },
   "keywords": [],
